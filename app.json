@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Chef Menu Manager",
+    "slug": "chef-menu-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#154E3B"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.st10536956.chefmenumanager"
+    },
+    "ios": {
+      "bundleIdentifier": "com.st10536956.chefmenumanager"
+    }
+  }
+}
